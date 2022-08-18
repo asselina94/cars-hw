@@ -6,5 +6,5 @@ Created a Responsive Car Website Design Using HTML CSS & JavaScript.
 
 I used flex box ,grid system and make website responsive which include,
 ✔ Responsive Navbar
-✔ Responsive Home Section
-✔ Responsive Buy Boxes
+✔ Responsive Booking Section
+✔ Responsive Animation
