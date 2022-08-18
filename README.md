@@ -1,5 +1,6 @@
 # cars-hw
-Video demo of website. 
+Video demo of website.
+
 https://user-images.githubusercontent.com/54496175/185392349-40890117-147a-40b1-9e02-b5424e311c45.mp4
 
 Created a Responsive Car Website Design Using HTML CSS & JavaScript.
